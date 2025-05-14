@@ -1,5 +1,0 @@
-hive_db,hive_table,uc_catalog,uc_db,uc_table
-hive_db,employee,uc_catalog,hive_db,employee
-hive_db,department,uc_catalog,hive_db,department
-hive_db,project,uc_catalog,hive_db,project
-hive_db,attendance,uc_catalog,hive_db,attendance
