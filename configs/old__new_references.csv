@@ -1,0 +1,4 @@
+old,new
+abfss://oldcontainer@account.dfs.core.windows.net,abfss://newcontainer@account.dfs.core.windows.net
+wasbs://oldcontainer@account.blob.core.windows.net,abfss://newcontainer@account.dfs.core.windows.net
+/dbfs/mount/oldpath,/dbfs/mount/newpath
